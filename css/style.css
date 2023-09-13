@@ -158,6 +158,14 @@ Text is aligned on the left side
 A right margin of 50px;
 A  border of 5px on the right and 2px on the top;
 */
+.green{
+    background-color: #00EB00;
+    text-align: left;
+    margin-right: 50px;
+    border-style: solid;
+    border-right: 5px;
+    border-top: 2px;
+}
 
 /*
 Style the default footer elements with:
